@@ -6,7 +6,12 @@
      <br>
      <a href="Recording 2025-06-29 105536.mp4">vid</a>
    - b.
-   - 
+   -  <a href="two.asm">two.asm</a>
+     <br>
+     ![Screenshot 2025-06-29 114717](https://github.com/user-attachments/assets/047283db-c23a-4d53-880f-aecda226bac8)
+-    c.
+-    <a href="three.asm">three.asm</a>
+
 
      
      
