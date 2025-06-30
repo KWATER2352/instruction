@@ -5,14 +5,19 @@
      <a href="one.asm">one.asm</a>
      <br>
      <a href="Recording 2025-06-29 105536.mp4">vid</a>
-   - b.
+     b.
    -  <a href="two.asm">two.asm</a>
      <br>
      ![Screenshot 2025-06-29 114717](https://github.com/user-attachments/assets/047283db-c23a-4d53-880f-aecda226bac8)
--    c.
+  c.
 -    <a href="three.asm">three.asm</a>
 
+
+https://github.com/user-attachments/assets/3f4940ae-f5df-43e3-a1e1-a7942257aa4f
+
+
      d. -  <a href="four.asm">four.asm</a>
+     <br>
 https://github.com/user-attachments/assets/e369eccc-e40a-4b85-87e7-d5ae0a2b27ff
 
 
